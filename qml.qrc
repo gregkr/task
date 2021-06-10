@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>assets/fly_dead.png</file>
+        <file>assets/fly_live.png</file>
+        <file>assets/no_fly.png</file>
+        <file>Statistic.qml</file>
+    </qresource>
+</RCC>
